@@ -10,3 +10,4 @@ INSERT INTO tb_colaboradores(nome,  salario, cargo, idade, sexo)
 VALUES ("Thabata", 800, "Estagiaria", 19, "feminino");
 
 SELECT * FROM tb_colaboradores;
+
