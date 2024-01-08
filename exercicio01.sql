@@ -1,0 +1,2 @@
+CREATE DATABASE db_colaboradoresEmpresaX;
+USE db_colaboradoresEmpresaX
